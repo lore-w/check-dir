@@ -1,0 +1,14 @@
+{
+    "name": "check-dir",
+    "version": "0.0.1",
+    "description": "check the dir",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Lore-w",
+        "email": "metro-cpu@hotmail.com"
+    },
+    "license": "ISC"
+}
